@@ -1,4 +1,17 @@
-# Title (Please modify the title)
+# 프로젝트 이름
+
+## 프로젝트 소개
+### <프로젝트 소개>
+- 작성 작성 작성
+
+### <작품 소개>
+- 작성 작성 작성
+
+### <주요 기능>
+- 작성 작성 작성
+
+<br>
+
 ## Team
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
@@ -6,31 +19,15 @@
 |            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
 |                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
 
-## 0. Overview
-### Environment
-- _Write Development environment_
 
-### Requirements
-- _Write Requirements_
+## 1. 개발 환경
+- 주 언어 : 
+- 버전 및 이슈관리 : 
+- 협업 툴 : 
 
-## 1. Competiton Info
+<br>
 
-### Overview
-
-- _Write competition information_
-
-### Timeline
-
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
-
-## 2. Components
-
-### Directory
-
-- _Insert your directory structure_
-
-e.g.
+## 2. 프로젝트 구조
 ```
 ├── code
 │   ├── jupyter_notebooks
@@ -46,47 +43,44 @@ e.g.
         └── train
 ```
 
-## 3. Data descrption
+<br>
 
-### Dataset overview
+## 3. 개발 일지&로그 작성
+### FAISS(예시)
+- 작성 작성 작성
 
-- _Explain using data_
+### Langchain(예시)
+- 작성 작성 작성
 
-### EDA
+<br>
 
-- _Describe your EDA process and step-by-step conclusion_
+## 4. 역할 분담
+### 박패캠
+- **역할**
+    - 작성 작성 작성
+- **기능**
+    - 작성 작성 작성
 
-### Data Processing
+<br>
 
-- _Describe data processing process (e.g. Data Labeling, Data Cleaning..)_
+## 5. 트러블 슈팅
 
-## 4. Modeling
+1. OOO 에러 발견
 
-### Model descrition
+### 설명
+- 작성 작성 작성
 
-- _Write model information and why your select this model_
+### 해결
+- 작성 작성 작성
 
-### Modeling Process
+<br>
 
-- _Write model train and test process with capture_
+## 6. 프로젝트 후기
 
-## 5. Result
+### 박패캠
+- 작성 작성 작성
 
-### Leader Board
+<br>
 
-- _Insert Leader Board Capture_
-- _Write rank and score_
-
-### Presentation
-
-- _Insert your presentaion file(pdf) link_
-
-## etc
-
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
-
-### Reference
-
-- _Insert related reference_
+## 7. 참고자료
+- 작성 작성 작성
