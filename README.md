@@ -55,8 +55,8 @@
 
 <br>
 
-## 4. 작품 아키텍처
-#### _아래 이미지는 예시입니다_
+## 4. 작품 아키텍처(필수X)
+- #### _아래 이미지는 예시입니다_
 ![이미지 설명](https://www.cadgraphics.co.kr/UPLOAD/editor/2024/07/04//2024726410gH04SyxMo3_editor_image.png)
 
 <br>
